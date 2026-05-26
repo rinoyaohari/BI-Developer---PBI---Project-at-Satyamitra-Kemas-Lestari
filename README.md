@@ -7,6 +7,8 @@ The reporting solution utilized direct connectivity between Power BI and GCP usi
 
 I worked as a **BI Developer**, responsible for data connectivity, report development, and automated report generation.
 
+![SKLWorkflow](https://github.com/rinoyaohari/BI-Developer---PBI---Project-at-Satyamitra-Kemas-Lestari/blob/dab2fc1d860f234ac4688546fb86121e720d9c12/workflowSKL.jpg)
+
 ---
 
 # Responsibilities
